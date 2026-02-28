@@ -1,0 +1,13 @@
+model_type: logistic_regression   # logistic_regression or mlp
+test_size: 0.2
+random_state: 42
+save_path: data/model.pkl
+
+logistic_regression:
+  max_iter: 200
+  solver: lbfgs
+
+mlp:
+  hidden_layer_sizes: [16, 16]
+  max_iter: 500
+  random_state: 42

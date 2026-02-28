@@ -1,0 +1,15 @@
+-e git+https://github.com/ishtiakm/coding_basics.git@adccc2bdfdf7728a01b44ca1f1f08ca98538c29d#egg=coding_basics
+exceptiongroup @ file:///opt/miniconda3/conda-bld/exceptiongroup_1761560357548/work
+iniconfig @ file:///Users/ec2-user/croot/iniconfig_1767356768873/work
+joblib==1.5.3
+numpy==2.2.6
+packaging @ file:///opt/miniconda3/conda-bld/packaging_1761049079158/work
+pluggy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_bei6q1cvvt/croot/pluggy_1733169621717/work
+Pygments @ file:///opt/miniconda3/conda-bld/pygments_1762431566026/work
+pytest @ file:///Users/ec2-user/croot/pytest_1769787669889/work
+PyYAML==6.0.3
+scikit-learn==1.7.2
+scipy==1.15.3
+threadpoolctl==3.6.0
+tomli @ file:///Users/ec2-user/croot/tomli_1768297479919/work
+typing_extensions @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_dffmcwqo6o/croot/typing_extensions_1756281471323/work
